@@ -1,13 +1,12 @@
 # Eclipse Style for Java
 
-1. Download and install Checkstyle Plug-in for Eclipse
-2. Set settings for editor (General)
+1. Set settings for editor (General)
     - Widow -> Preferences -> General -> Editors -> Text Editors.
         - Check "Insert spaces for tabs"
         - Check "Show print margin"
         - Check "Show print Margin" and "Show Line Numbers"
         - Set "Print margin column" to 120
-3. Set settings for Java Editor
+2. Set settings for Java Editor
     - Widow -> Preferences -> Java -> Editor -> Save Actions
         - Check "Perform the selected actions on save"
         - Check "Format source code" -> Format all lines
